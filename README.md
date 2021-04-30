@@ -1,0 +1,1 @@
+# Obtain-Power-BI-users-and-licenses-from-Azure-through-PowerShell
