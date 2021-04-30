@@ -15,7 +15,7 @@ Set-ExecutionPolicy Bypass -Scope Process
 Import-Module AzureRM
 Import-Module AzureAD
 
-# Dados da conta e do Azure para poder acessar
+# Account and Azure data to be able to access
 $PBIAdminUPN = “youremail@email.com.br”
 $PBIAdminPW = “yourpassword”
 $MyOrgTenantID = “your tenant”
