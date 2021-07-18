@@ -1,4 +1,4 @@
-# Obtain Power BI users and licenses from Azure through PowerShell
+# Get Power BI users and licenses from Azure through PowerShell script
 
 A document repository can also be found in my profile article at [Medium](https://guimatheus92.medium.com/obtain-power-bi-users-and-licenses-from-azure-through-powershell-7f78bb4c4e21 "Medium").
 
