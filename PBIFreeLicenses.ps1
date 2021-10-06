@@ -1,8 +1,8 @@
 # --------------------------------------------------------------------------------------#
-# Title: Delete files older than seven days
+# Title: Get free licenses from Azure
 # Author: Guilherme Matheus
-# Date: Script created on 30.04.2021
-# Script and data info: This script clean up a folder with files older than 1 week
+# Date: Script created on 18.07.2021
+# Script and data info: This script can get free licenses from Azure
 # --------------------------------------------------------------------------------------#
 
 # Reference taken from the official link https://docs.microsoft.com/en-us/powershell/module/azuread/?view=azureadps-2.0
